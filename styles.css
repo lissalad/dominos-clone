@@ -1,0 +1,118 @@
+#banner {
+  background-image: url("./images/hero.jpg");
+  background-size: 110%;
+  background-position: center;
+  height: 100vh;
+}
+
+.chunk {
+  min-width: 50px !important;
+}
+
+.m-5 {
+  margin: 5em;
+}
+
+.one-line {
+  min-width: max-content !important;
+}
+
+.mr-20 {
+  margin-right: 22em !important;
+}
+
+.ml-20 {
+  margin-left: 22em !important;
+}
+
+.frame {
+  border: 6px solid rgb(235, 235, 235) !important;
+}
+body {
+  font-family: "one-light" !important;
+  /* font-family: "one-cd-bold" !important;
+    font-family: "one-bold" !important;
+
+  font-family: "one-cd" !important;
+  
+  font-family: "two-swash" !important; */
+}
+
+@font-face {
+  font-family: "one-bold";
+  src: url("https://www.dominosweddingregistry.com/src/fonts/OneDot-Bold.woff") format("woff");
+
+  font-family: "one-light";
+  src: url("https://www.dominosweddingregistry.com/src/fonts/OneDot-Light.woff") format("woff");
+
+  font-family: "one-cd-bold";
+  src: url("https://www.dominosweddingregistry.com/src/fonts/OneDotCd-Bold.woff") format("woff");
+
+  font-family: "one-cd";
+  src: url("https://www.dominosweddingregistry.com/src/fonts/OneDotCd.woff") format("woff");
+
+  font-family: "two-bold";
+  src: url("https://www.dominosweddingregistry.com/src/fonts/TwoDots-Bold.woff") format("woff");
+
+  font-family: "swash";
+  src: url("https://www.dominosweddingregistry.com/src/fonts/TwoDotsWebSwash-BoldItalic.woff")
+    format("woff");
+}
+
+.bold2 {
+  font-family: "two-bold" !important;
+}
+
+.bold1 {
+  font-family: "one-bold" !important;
+}
+
+.light1 {
+  font-family: "one-light" !important;
+}
+
+.cd1bold {
+  font-family: "one-cd-bold" !important;
+}
+
+.cd1 {
+  font-family: "one-cd" !important;
+}
+
+.swash {
+  font-family: "swash" !important;
+}
+
+.text-supreme {
+  color: #59769f !important;
+}
+
+.text-concern {
+  color: #e75a54;
+}
+
+.text-quiet {
+  color: #646464;
+}
+
+.text-tame {
+  color: #555555;
+}
+
+.btn-primary {
+  background-color: #59769f !important;
+  border: none !important;
+}
+
+.border-supreme {
+  border: 1px solid #59769f !important;
+}
+
+.btn-danger {
+  background-color: #e75a54 !important;
+  border: none !important;
+}
+
+.bg-supreme {
+  background-color: #59769f !important;
+}
